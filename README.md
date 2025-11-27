@@ -116,9 +116,8 @@ Herramientas: Docker • Git • GraphQL • REST
 
 ## 📬 Contacto
 
-- 📧 **Email**: [Tu correo aquí]
-- 💼 **LinkedIn**: [Tu perfil aquí]
-- 🔗 **Portfolio**: [Tu web aquí]
+- 📧 **Email**: juliancamilorodriguezcamelo21@gmail.com
+- 💼 **LinkedIn**: linkedin.com/in/julian-camilo-rodriguez-camelo-497818291
 - 🐙 **GitHub**: [@julian7689](https://github.com/julian7689)
 
 ---
